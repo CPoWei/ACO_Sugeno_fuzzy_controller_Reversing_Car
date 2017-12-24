@@ -1,6 +1,5 @@
 clc;
 clearvars;
-disp('===<< This is the assingment coded by 1033072 >>===');
 fprintf('Press "Enter" to begin\n\n');
 pause;
 
